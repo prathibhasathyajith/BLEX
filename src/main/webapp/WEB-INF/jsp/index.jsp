@@ -186,7 +186,7 @@
 
 				<div class="black_box">
 					<!-- black box start-->
-					<h3 class="small_heading">CHECK AVAILABILITY</h3>
+					<h3 class="small_heading">CHECK AVAILABILITY TEST</h3>
 
 					<form action="dashboard" method="post" onsubmit="return validate()">
 						<input type="hidden" id="returnChecked" name="returnChecked">
