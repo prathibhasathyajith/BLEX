@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-deployment-structure>
+	<!-- <jboss-web>
+		<context-root>/mtktweb</context-root>
+	</jboss-web> -->
+	<!-- <deployment>
+		<dependencies>
+			<module name="com.myjars.jfreechart" />
+			<module name="com.myjars.jcommon" />
+		</dependencies>
+	</deployment> -->
+</jboss-deployment-structure>  
